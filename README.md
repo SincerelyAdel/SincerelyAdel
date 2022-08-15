@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lazzie135
-- 👀 I’m interested in python, unity and much more.
+- 👀 I’m interested in python, unity, js + react, css, html, and much more.
 - 🌱 I’m currently learning coding games, learning different languages and also much more(obviously).
 - 💞️ I’m looking to collaborate on python projects, web programming.
 - 📫 Reach me at adelaljaed@gmail.com
