@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lazzie135
+- 👋 Hi, I’m @SincerelyAdel
 - 👀 I’m interested in python, unity, js + react, css, html, and much more.
 - 🌱 I’m currently learning coding games, learning different languages and also much more(obviously).
 - 💞️ I’m looking to collaborate on python projects, web programming.
